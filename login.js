@@ -1,4 +1,4 @@
 <script>
     console.log("login here");
-    console.log('fualy again');
+    console.log('singup code');
 </script>
