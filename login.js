@@ -1,4 +1,3 @@
 <script>
-    console.log("login here");
-    console.log("another branch code");
+    console.log("login here")
 </script>
